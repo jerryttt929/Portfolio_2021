@@ -3,7 +3,7 @@
 
 ## Summary
 
-**Never settle for just being okay.**
+_**Never settle for just being okay.**_
 
 I love spending time solving complex problems, digging into customer insights to build more stronger and popular products. Throughout my careers, I surround myself with product management, project management as well as customer-facing sales. Both my personal and professional experience has equipped me with the following:
 
