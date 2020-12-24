@@ -36,6 +36,6 @@ Each of the folders contains the following information
 
 # Contant Information
 
-Feel free to reach me via
-Email: jerrytai929@gmail.com <br>
-Linkedin: linkedin.com/in/chiahsiangtai
+Feel free to reach me via <br>
+**Email:** jerrytai929@gmail.com <br>
+**Linkedin:** linkedin.com/in/chiahsiangtai
