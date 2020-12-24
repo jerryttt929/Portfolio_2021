@@ -34,7 +34,7 @@ Each of the folders contains the following information
 3. Products/function/projects I have done 
 
 
-# Contant Information
+# Contact Information
 
 Feel free to reach me via <br>
 **Email:** jerrytai929@gmail.com <br>
