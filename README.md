@@ -1,7 +1,7 @@
 # Personal Portfolio
 
 
-## Summary
+## About me
 
 _**Never settle for just being okay.**_
 
