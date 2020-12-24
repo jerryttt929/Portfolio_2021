@@ -1,6 +1,5 @@
 # Personal Profoilo
 
--------------------------
 
 ## Summary
 
@@ -25,7 +24,6 @@ I love spending time solving complex problems, digging into customer insights to
 
 I enjoy making friends from all different industries to receive more diverse opinions. Send me an message on linkedin if you want to have a chat about interesting products or tech that you wanted to share with. 
 
------------------------------
 
 ## Introduction of the Repo
 
@@ -35,7 +33,6 @@ Each of the folders contains the following information
 2. Roles and responsibilities
 3. Products/function/projects I have done 
 
-----------------------------
 
 # Contant Information
 
